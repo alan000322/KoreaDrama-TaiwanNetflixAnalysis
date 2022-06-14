@@ -1,0 +1,6 @@
+mark {
+    background-color: transparent;
+    padding: 3px 1px;
+    border-radius: 5px;  
+    background: linear-gradient(transparent 40%, rgba(255,255,255,0) 50%, #ffb6c1  75%, #ffb6c1 90%, transparent 95%);
+}
